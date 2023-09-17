@@ -1,0 +1,15 @@
+/home/faysal/C#/HelloWorld/bin/Debug/net7.0/HelloWorld
+/home/faysal/C#/HelloWorld/bin/Debug/net7.0/HelloWorld.deps.json
+/home/faysal/C#/HelloWorld/bin/Debug/net7.0/HelloWorld.runtimeconfig.json
+/home/faysal/C#/HelloWorld/bin/Debug/net7.0/HelloWorld.dll
+/home/faysal/C#/HelloWorld/bin/Debug/net7.0/HelloWorld.pdb
+/home/faysal/C#/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.AssemblyReference.cache
+/home/faysal/C#/HelloWorld/obj/Debug/net7.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/faysal/C#/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfoInputs.cache
+/home/faysal/C#/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfo.cs
+/home/faysal/C#/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/faysal/C#/HelloWorld/obj/Debug/net7.0/HelloWorld.dll
+/home/faysal/C#/HelloWorld/obj/Debug/net7.0/refint/HelloWorld.dll
+/home/faysal/C#/HelloWorld/obj/Debug/net7.0/HelloWorld.pdb
+/home/faysal/C#/HelloWorld/obj/Debug/net7.0/HelloWorld.genruntimeconfig.cache
+/home/faysal/C#/HelloWorld/obj/Debug/net7.0/ref/HelloWorld.dll
