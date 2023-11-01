@@ -1,0 +1,15 @@
+/home/faysal/C-Sharp/OOPBasic/bin/Debug/net7.0/OOPBasic
+/home/faysal/C-Sharp/OOPBasic/bin/Debug/net7.0/OOPBasic.deps.json
+/home/faysal/C-Sharp/OOPBasic/bin/Debug/net7.0/OOPBasic.runtimeconfig.json
+/home/faysal/C-Sharp/OOPBasic/bin/Debug/net7.0/OOPBasic.dll
+/home/faysal/C-Sharp/OOPBasic/bin/Debug/net7.0/OOPBasic.pdb
+/home/faysal/C-Sharp/OOPBasic/obj/Debug/net7.0/OOPBasic.csproj.AssemblyReference.cache
+/home/faysal/C-Sharp/OOPBasic/obj/Debug/net7.0/OOPBasic.GeneratedMSBuildEditorConfig.editorconfig
+/home/faysal/C-Sharp/OOPBasic/obj/Debug/net7.0/OOPBasic.AssemblyInfoInputs.cache
+/home/faysal/C-Sharp/OOPBasic/obj/Debug/net7.0/OOPBasic.AssemblyInfo.cs
+/home/faysal/C-Sharp/OOPBasic/obj/Debug/net7.0/OOPBasic.csproj.CoreCompileInputs.cache
+/home/faysal/C-Sharp/OOPBasic/obj/Debug/net7.0/OOPBasic.dll
+/home/faysal/C-Sharp/OOPBasic/obj/Debug/net7.0/refint/OOPBasic.dll
+/home/faysal/C-Sharp/OOPBasic/obj/Debug/net7.0/OOPBasic.pdb
+/home/faysal/C-Sharp/OOPBasic/obj/Debug/net7.0/OOPBasic.genruntimeconfig.cache
+/home/faysal/C-Sharp/OOPBasic/obj/Debug/net7.0/ref/OOPBasic.dll
