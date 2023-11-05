@@ -1,7 +1,8 @@
 ﻿using System;
+using MyApp;
 
-namespace MyApp
-{
+// namespace MyApp
+
     class Program
     {
         static void Main(string[] args)
@@ -14,13 +15,14 @@ namespace MyApp
 
             Console.WriteLine(name);
 
-            Person person2 = new Person();
-            person2.firstName = "Nishat";
-            person2.lastName = "Shoshi";
+            Person person2 = new Person("Nishat", "Shoshi");
+            person2.FirstName = "Nishat";
+            person2.LastName = "Shoshi";
 
-            string wifeName = person2.GetName(" ");
-            Console.WriteLine(wifeName);
+            string name2 = person2.GetName(new string[] {" "});
+            Console.WriteLine(name2);
 
+            Console.WriteLine(person2.FullName);
         }
     }
-}
+

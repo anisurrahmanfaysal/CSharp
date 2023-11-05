@@ -1,26 +1,50 @@
 namespace MyApp;
 public class Person
 {
-    public string firstName;
-    public string lastName;
+    // Filds...
+    string firstName;
+    public string LastName { get; set;}   // Auto Properties
+
+    // Property FirstName
+    public string FirstName
+    {
+        get{
+            if(string.IsNullOrWhiteSpace(FirstName))
+                return string.Empty;
+
+            return firstName;
+        }
+        set{
+            if (!string.IsNullOrWhiteSpace(value))
+                firstName = value;
+            
+        }
+    }
+
+    public string FullName
+    {
+        get{
+            return firstName + " " + LastName;
+        }
+    }
 
 // Empty Constructor
-    public Person(){
-        firstName = string.Empty;
-        lastName = string.Empty;
+    public Person() : this(string.Empty, string.Empty)  // Constructor chining
+    {
+        
     }
 
 // Paremeterized constructor
     public Person(string firstName, string lastName){    // Constructor overloding
         this.firstName = firstName;
-        this.lastName = lastName;
+        this.LastName = lastName;
     }
 
     public string GetName(string seperator){
-        return firstName + seperator + lastName;
+        return firstName + seperator + LastName;
     }
 
     public string GetName(string[] seperator){  // Method Overloding
-        return firstName + seperator[0] + lastName;
+        return GetName(seperator[0]);
     }
 }
