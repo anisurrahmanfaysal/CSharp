@@ -8,9 +8,7 @@ public class Student : Person
         _id = id;
     }
 
-    public string GetStudentId(){
-        return _idPrefix + _id;
-    }
+    
 
     public double CalculateCgpa(){
         var cgpa = 0;
@@ -21,5 +19,10 @@ public class Student : Person
         }
 
         return cgpa / grades.Length;
+    }
+
+    public override string GetId()
+    {
+        return _idPrefix + _id;    
     }
 }
