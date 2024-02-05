@@ -8,24 +8,26 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/home/faysal/.nuget/packages/": {}
+    "C:\\Users\\faysa\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/faysal/C-Sharp/Loop/Loop.csproj",
+      "projectUniqueName": "D:\\C-Sharp\\Loop\\Loop.csproj",
       "projectName": "Loop",
-      "projectPath": "/home/faysal/C-Sharp/Loop/Loop.csproj",
-      "packagesPath": "/home/faysal/.nuget/packages/",
-      "outputPath": "/home/faysal/C-Sharp/Loop/obj/",
+      "projectPath": "D:\\C-Sharp\\Loop\\Loop.csproj",
+      "packagesPath": "C:\\Users\\faysa\\.nuget\\packages\\",
+      "outputPath": "D:\\C-Sharp\\Loop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/faysal/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\faysa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -54,12 +56,30 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.14, 7.0.14]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[7.0.14, 7.0.14]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.14, 7.0.14]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[7.0.14, 7.0.14]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.114/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

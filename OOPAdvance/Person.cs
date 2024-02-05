@@ -1,5 +1,7 @@
+using OOPAdvance;
+
 namespace Namespace;
-public abstract class Person
+public abstract class Person : IPerson
 {
     public string FirstName {get; set;}
     public string LastName{get; set;}
@@ -9,6 +11,9 @@ public abstract class Person
             return GetId();
         }
     }
+
+    public string Address { get; set; }
+
     protected int[] grades;
 
     public Person(int size){
@@ -23,4 +28,8 @@ public abstract class Person
     }
 
     public abstract string GetId();
+
+    public abstract void Talk(string message);
+
+    public abstract void SetAddress(string address);
 }

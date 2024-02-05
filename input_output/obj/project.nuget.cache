@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "n/uEUTpYsAdYjhfqquaZt7jpQcnIHRoIbz0pWvysf61+PmyMvE9DtFzApknVkXS+w1fjYjEpIGO/4H2I+1VCEw==",
+  "dgSpecHash": "3ISxIy3++Q2rLRXp+uEbAEEddMeXhbgCEo+csTEAbdgeeASeF4m70eUiXxzB45jF+OZG9ak+wZMGuIZhq0Cfig==",
   "success": true,
-  "projectFilePath": "/home/faysal/C-Sharp/input_output/input_output.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\C-Sharp\\input_output\\input_output.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\faysa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\faysa\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\faysa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\faysa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

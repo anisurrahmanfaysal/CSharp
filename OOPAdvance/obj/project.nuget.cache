@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "cGEucDenHQSoZ6Z3nbsUSNFF8ai64YCVczK7BrIC193a1WDIPq0UKP5Cww3HUAgwR8Guss2uxcwRfuBGsLNPgw==",
+  "dgSpecHash": "onFqrVIVFOGYY29Gbr+ebd4Okk/Z3Bh7xU7TwcjWRpbnW5DWQOgfkt115v9OAt1iAtm2nHsSzd4t9GASdALjrA==",
   "success": true,
-  "projectFilePath": "/home/faysal/C-Sharp/OOPAdvance/OOPAdvance.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\C-Sharp\\OOPAdvance\\OOPAdvance.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\faysa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\faysa\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\faysa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\faysa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

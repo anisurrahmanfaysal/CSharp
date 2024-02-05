@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "qT3InAhKIzsZFtOLkGW5i5fMJHtIGdRIn19hI19wBts7YErnK3xc4nWcyO0sCNTX9jBg2mJIitT4a6TagAr7fA==",
+  "dgSpecHash": "EL0XwkU8TRA8nSBFfRLLYSrj68hK0XManwWdfHrj7WkeCG/9YQcPAS7ulJkfNCbc6+AnfznFCFgfNgXHWNpaJA==",
   "success": true,
-  "projectFilePath": "/home/faysal/C-Sharp/ConditionalStatement/ConditionalStatement.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\C-Sharp\\ConditionalStatement\\ConditionalStatement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\faysa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\faysa\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\faysa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\faysa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

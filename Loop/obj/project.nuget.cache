@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "DrbcPzKwcTovQ6hMBy0K1ri0B4Ke3Q3aKBRwVuQh6nTAPVudrfxbnecxP1h8jIdmn000mMAGmO7DbwmNwDC49g==",
+  "dgSpecHash": "IiMjiY8HBFFfs4QRoSafd/GlYZtaOEnU011/u3PSUZVbBJ1dBpgWu/qdr4LpRAkD+4Pp88V1ir2aJWe+gJGCcA==",
   "success": true,
-  "projectFilePath": "/home/faysal/C-Sharp/Loop/Loop.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\C-Sharp\\Loop\\Loop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\faysa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\faysa\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\faysa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\faysa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }
