@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pRhaVBvLSWdXOLnyZrUnhK9kJ8OXZpCxv6RsBnki+05Y/0magxIxwRKMGeKAkjsQqMtCVzwSElBNZFY0gWa+xg==",
+  "dgSpecHash": "hdvFUe58lg2XZKdUf40F7bht35SCPp5+IbnWtS1yktZGDNND7ljmIxZ6EJ6FHoVbSSPOCbUpTB+HbvCP+oPBaw==",
   "success": true,
-  "projectFilePath": "D:\\C-Sharp\\Problem Solving\\Way Too Long Words\\Way Too Long Words.csproj",
+  "projectFilePath": "/home/faysal/GirRepo/CSharp/Problem Solving/Way Too Long Words/Way Too Long Words.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

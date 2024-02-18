@@ -10,4 +10,5 @@ for (int i = 0; i < totalProblem; i++)
     if((member1 == 1 && member2 == 1 && member3 ==1) || (member1 == 0 && member2 == 1 && member3 == 1) || (member1 == 1 && member2 == 0 && member3 == 1) || (member1 == 1 && member2 == 1 && member3 == 0))
         count++;
 }
+
 Console.WriteLine(count);
