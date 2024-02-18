@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Way Too Long Words", "Way Too Long Words\Way Too Long Words.csproj", "{76EDED0A-318C-4BDF-8406-D6C31B325479}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76EDED0A-318C-4BDF-8406-D6C31B325479}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76EDED0A-318C-4BDF-8406-D6C31B325479}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76EDED0A-318C-4BDF-8406-D6C31B325479}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76EDED0A-318C-4BDF-8406-D6C31B325479}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B505027A-A7C9-4F67-BE38-3FA867333BED}
+	EndGlobalSection
+EndGlobal

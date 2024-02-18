@@ -1,0 +1,14 @@
+D:\Entity Frameword Core\src\EntityFramework\Way Too Long Words\Way Too Long Words\bin\Debug\net8.0\Way Too Long Words.exe
+D:\Entity Frameword Core\src\EntityFramework\Way Too Long Words\Way Too Long Words\bin\Debug\net8.0\Way Too Long Words.deps.json
+D:\Entity Frameword Core\src\EntityFramework\Way Too Long Words\Way Too Long Words\bin\Debug\net8.0\Way Too Long Words.runtimeconfig.json
+D:\Entity Frameword Core\src\EntityFramework\Way Too Long Words\Way Too Long Words\bin\Debug\net8.0\Way Too Long Words.dll
+D:\Entity Frameword Core\src\EntityFramework\Way Too Long Words\Way Too Long Words\bin\Debug\net8.0\Way Too Long Words.pdb
+D:\Entity Frameword Core\src\EntityFramework\Way Too Long Words\Way Too Long Words\obj\Debug\net8.0\Way Too Long Words.GeneratedMSBuildEditorConfig.editorconfig
+D:\Entity Frameword Core\src\EntityFramework\Way Too Long Words\Way Too Long Words\obj\Debug\net8.0\Way Too Long Words.AssemblyInfoInputs.cache
+D:\Entity Frameword Core\src\EntityFramework\Way Too Long Words\Way Too Long Words\obj\Debug\net8.0\Way Too Long Words.AssemblyInfo.cs
+D:\Entity Frameword Core\src\EntityFramework\Way Too Long Words\Way Too Long Words\obj\Debug\net8.0\Way Too Long Words.csproj.CoreCompileInputs.cache
+D:\Entity Frameword Core\src\EntityFramework\Way Too Long Words\Way Too Long Words\obj\Debug\net8.0\Way Too Long Words.dll
+D:\Entity Frameword Core\src\EntityFramework\Way Too Long Words\Way Too Long Words\obj\Debug\net8.0\refint\Way Too Long Words.dll
+D:\Entity Frameword Core\src\EntityFramework\Way Too Long Words\Way Too Long Words\obj\Debug\net8.0\Way Too Long Words.pdb
+D:\Entity Frameword Core\src\EntityFramework\Way Too Long Words\Way Too Long Words\obj\Debug\net8.0\Way Too Long Words.genruntimeconfig.cache
+D:\Entity Frameword Core\src\EntityFramework\Way Too Long Words\Way Too Long Words\obj\Debug\net8.0\ref\Way Too Long Words.dll

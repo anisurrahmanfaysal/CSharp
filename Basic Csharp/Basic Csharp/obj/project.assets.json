@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/faysal/C-Sharp/C-Sharp.csproj",
-      "projectName": "C-Sharp",
-      "projectPath": "/home/faysal/C-Sharp/C-Sharp.csproj",
+      "projectUniqueName": "/home/faysal/C-Sharp/Basic Csharp/Basic Csharp.csproj",
+      "projectName": "Basic Csharp",
+      "projectPath": "/home/faysal/C-Sharp/Basic Csharp/Basic Csharp.csproj",
       "packagesPath": "/home/faysal/.nuget/packages/",
-      "outputPath": "/home/faysal/C-Sharp/obj/",
+      "outputPath": "/home/faysal/C-Sharp/Basic Csharp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/faysal/.nuget/NuGet/NuGet.Config"
