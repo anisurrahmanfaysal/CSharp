@@ -1,0 +1,5 @@
+D:\C-Sharp\Problem Solving\ProblemSolving\A. Team\obj\Debug\net8.0\A. Team.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Sharp\Problem Solving\ProblemSolving\A. Team\obj\Debug\net8.0\A. Team.AssemblyInfoInputs.cache
+D:\C-Sharp\Problem Solving\ProblemSolving\A. Team\obj\Debug\net8.0\A. Team.AssemblyInfo.cs
+D:\C-Sharp\Problem Solving\ProblemSolving\A. Team\obj\Debug\net8.0\A. Team.csproj.CoreCompileInputs.cache
+D:\C-Sharp\Problem Solving\ProblemSolving\A. Team\obj\Debug\net8.0\A. Team.sourcelink.json
