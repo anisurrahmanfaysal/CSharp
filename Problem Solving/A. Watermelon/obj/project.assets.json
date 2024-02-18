@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C-Sharp\\Problem Solving\\ProblemSolving\\A. Watermelon\\A. Watermelon.csproj",
+      "projectUniqueName": "D:\\C-Sharp\\Problem Solving\\A. Watermelon\\A. Watermelon.csproj",
       "projectName": "A. Watermelon",
-      "projectPath": "D:\\C-Sharp\\Problem Solving\\ProblemSolving\\A. Watermelon\\A. Watermelon.csproj",
+      "projectPath": "D:\\C-Sharp\\Problem Solving\\A. Watermelon\\A. Watermelon.csproj",
       "packagesPath": "C:\\Users\\faysa\\.nuget\\packages\\",
-      "outputPath": "D:\\C-Sharp\\Problem Solving\\ProblemSolving\\A. Watermelon\\obj\\",
+      "outputPath": "D:\\C-Sharp\\Problem Solving\\A. Watermelon\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\faysa\\AppData\\Roaming\\NuGet\\NuGet.Config",

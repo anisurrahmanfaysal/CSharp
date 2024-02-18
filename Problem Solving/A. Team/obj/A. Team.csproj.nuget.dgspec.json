@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C-Sharp\\Problem Solving\\ProblemSolving\\A. Team\\A. Team.csproj": {}
+    "D:\\C-Sharp\\Problem Solving\\A. Team\\A. Team.csproj": {}
   },
   "projects": {
-    "D:\\C-Sharp\\Problem Solving\\ProblemSolving\\A. Team\\A. Team.csproj": {
+    "D:\\C-Sharp\\Problem Solving\\A. Team\\A. Team.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C-Sharp\\Problem Solving\\ProblemSolving\\A. Team\\A. Team.csproj",
+        "projectUniqueName": "D:\\C-Sharp\\Problem Solving\\A. Team\\A. Team.csproj",
         "projectName": "A. Team",
-        "projectPath": "D:\\C-Sharp\\Problem Solving\\ProblemSolving\\A. Team\\A. Team.csproj",
+        "projectPath": "D:\\C-Sharp\\Problem Solving\\A. Team\\A. Team.csproj",
         "packagesPath": "C:\\Users\\faysa\\.nuget\\packages\\",
-        "outputPath": "D:\\C-Sharp\\Problem Solving\\ProblemSolving\\A. Team\\obj\\",
+        "outputPath": "D:\\C-Sharp\\Problem Solving\\A. Team\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\faysa\\AppData\\Roaming\\NuGet\\NuGet.Config",

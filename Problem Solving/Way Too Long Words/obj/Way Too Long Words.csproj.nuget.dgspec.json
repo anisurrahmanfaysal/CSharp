@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C-Sharp\\Problem Solving\\ProblemSolving\\Way Too Long Words\\Way Too Long Words.csproj": {}
+    "D:\\C-Sharp\\Problem Solving\\Way Too Long Words\\Way Too Long Words.csproj": {}
   },
   "projects": {
-    "D:\\C-Sharp\\Problem Solving\\ProblemSolving\\Way Too Long Words\\Way Too Long Words.csproj": {
+    "D:\\C-Sharp\\Problem Solving\\Way Too Long Words\\Way Too Long Words.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C-Sharp\\Problem Solving\\ProblemSolving\\Way Too Long Words\\Way Too Long Words.csproj",
+        "projectUniqueName": "D:\\C-Sharp\\Problem Solving\\Way Too Long Words\\Way Too Long Words.csproj",
         "projectName": "Way Too Long Words",
-        "projectPath": "D:\\C-Sharp\\Problem Solving\\ProblemSolving\\Way Too Long Words\\Way Too Long Words.csproj",
+        "projectPath": "D:\\C-Sharp\\Problem Solving\\Way Too Long Words\\Way Too Long Words.csproj",
         "packagesPath": "C:\\Users\\faysa\\.nuget\\packages\\",
-        "outputPath": "D:\\C-Sharp\\Problem Solving\\ProblemSolving\\Way Too Long Words\\obj\\",
+        "outputPath": "D:\\C-Sharp\\Problem Solving\\Way Too Long Words\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\faysa\\AppData\\Roaming\\NuGet\\NuGet.Config",
