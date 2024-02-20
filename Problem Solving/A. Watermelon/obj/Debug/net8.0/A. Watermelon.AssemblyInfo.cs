@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Watermelon")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a48e2428235fee182135c2d1fd2d3cfdb9c9f797")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+494821ccd829b0fc9d969bb05e15b07367d46c67")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Watermelon")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Watermelon")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
