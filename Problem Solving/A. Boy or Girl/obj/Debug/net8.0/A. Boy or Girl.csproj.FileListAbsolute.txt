@@ -1,0 +1,15 @@
+/home/faysal/Desktop/Work Station/CSharp/Problem Solving/A. Boy or Girl/bin/Debug/net8.0/A. Boy or Girl
+/home/faysal/Desktop/Work Station/CSharp/Problem Solving/A. Boy or Girl/bin/Debug/net8.0/A. Boy or Girl.deps.json
+/home/faysal/Desktop/Work Station/CSharp/Problem Solving/A. Boy or Girl/bin/Debug/net8.0/A. Boy or Girl.runtimeconfig.json
+/home/faysal/Desktop/Work Station/CSharp/Problem Solving/A. Boy or Girl/bin/Debug/net8.0/A. Boy or Girl.dll
+/home/faysal/Desktop/Work Station/CSharp/Problem Solving/A. Boy or Girl/bin/Debug/net8.0/A. Boy or Girl.pdb
+/home/faysal/Desktop/Work Station/CSharp/Problem Solving/A. Boy or Girl/obj/Debug/net8.0/A. Boy or Girl.GeneratedMSBuildEditorConfig.editorconfig
+/home/faysal/Desktop/Work Station/CSharp/Problem Solving/A. Boy or Girl/obj/Debug/net8.0/A. Boy or Girl.AssemblyInfoInputs.cache
+/home/faysal/Desktop/Work Station/CSharp/Problem Solving/A. Boy or Girl/obj/Debug/net8.0/A. Boy or Girl.AssemblyInfo.cs
+/home/faysal/Desktop/Work Station/CSharp/Problem Solving/A. Boy or Girl/obj/Debug/net8.0/A. Boy or Girl.csproj.CoreCompileInputs.cache
+/home/faysal/Desktop/Work Station/CSharp/Problem Solving/A. Boy or Girl/obj/Debug/net8.0/A. Boy or Girl.sourcelink.json
+/home/faysal/Desktop/Work Station/CSharp/Problem Solving/A. Boy or Girl/obj/Debug/net8.0/A. Boy or Girl.dll
+/home/faysal/Desktop/Work Station/CSharp/Problem Solving/A. Boy or Girl/obj/Debug/net8.0/refint/A. Boy or Girl.dll
+/home/faysal/Desktop/Work Station/CSharp/Problem Solving/A. Boy or Girl/obj/Debug/net8.0/A. Boy or Girl.pdb
+/home/faysal/Desktop/Work Station/CSharp/Problem Solving/A. Boy or Girl/obj/Debug/net8.0/A. Boy or Girl.genruntimeconfig.cache
+/home/faysal/Desktop/Work Station/CSharp/Problem Solving/A. Boy or Girl/obj/Debug/net8.0/ref/A. Boy or Girl.dll

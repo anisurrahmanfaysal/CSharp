@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/faysal/GirRepo/CSharp/Problem Solving/Next Round/Next Round.csproj": {}
+    "/home/faysal/Desktop/Work Station/CSharp/Problem Solving/Next Round/Next Round.csproj": {}
   },
   "projects": {
-    "/home/faysal/GirRepo/CSharp/Problem Solving/Next Round/Next Round.csproj": {
+    "/home/faysal/Desktop/Work Station/CSharp/Problem Solving/Next Round/Next Round.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/faysal/GirRepo/CSharp/Problem Solving/Next Round/Next Round.csproj",
+        "projectUniqueName": "/home/faysal/Desktop/Work Station/CSharp/Problem Solving/Next Round/Next Round.csproj",
         "projectName": "Next Round",
-        "projectPath": "/home/faysal/GirRepo/CSharp/Problem Solving/Next Round/Next Round.csproj",
+        "projectPath": "/home/faysal/Desktop/Work Station/CSharp/Problem Solving/Next Round/Next Round.csproj",
         "packagesPath": "/home/faysal/.nuget/packages/",
-        "outputPath": "/home/faysal/GirRepo/CSharp/Problem Solving/Next Round/obj/",
+        "outputPath": "/home/faysal/Desktop/Work Station/CSharp/Problem Solving/Next Round/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/faysal/.nuget/NuGet/NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

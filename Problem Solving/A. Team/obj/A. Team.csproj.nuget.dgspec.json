@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/faysal/GirRepo/CSharp/Problem Solving/A. Team/A. Team.csproj": {}
+    "/home/faysal/Desktop/Work Station/CSharp/Problem Solving/A. Team/A. Team.csproj": {}
   },
   "projects": {
-    "/home/faysal/GirRepo/CSharp/Problem Solving/A. Team/A. Team.csproj": {
+    "/home/faysal/Desktop/Work Station/CSharp/Problem Solving/A. Team/A. Team.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/faysal/GirRepo/CSharp/Problem Solving/A. Team/A. Team.csproj",
+        "projectUniqueName": "/home/faysal/Desktop/Work Station/CSharp/Problem Solving/A. Team/A. Team.csproj",
         "projectName": "A. Team",
-        "projectPath": "/home/faysal/GirRepo/CSharp/Problem Solving/A. Team/A. Team.csproj",
+        "projectPath": "/home/faysal/Desktop/Work Station/CSharp/Problem Solving/A. Team/A. Team.csproj",
         "packagesPath": "/home/faysal/.nuget/packages/",
-        "outputPath": "/home/faysal/GirRepo/CSharp/Problem Solving/A. Team/obj/",
+        "outputPath": "/home/faysal/Desktop/Work Station/CSharp/Problem Solving/A. Team/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/faysal/.nuget/NuGet/NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
