@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Way Too Long Words")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+823bf41e42b0c4768fab9b4e59f4d57026482bee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce97039e254b213779086bddc844bdb8eee56b27")]
 [assembly: System.Reflection.AssemblyProductAttribute("Way Too Long Words")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Way Too Long Words")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
