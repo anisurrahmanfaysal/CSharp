@@ -1,22 +1,22 @@
 ﻿Console.WriteLine("Assignment-2\n\n");
 
-string name = "Apple Iphone 15";
-double price = 320.5;
+string productName = "Apple Iphone 15";
+double productPrice = 320.5;
 string category = "smart phone";
-bool avaliable = true;
+bool isAvaliable = true;
 int sold = 100;
 
 Console.Write("Name: ");
-Console.WriteLine(name);
+Console.WriteLine(productName);
 
 Console.Write("Price: $");
-Console.WriteLine(price);
+Console.WriteLine(productPrice);
 
 Console.Write("Category: ");
 Console.WriteLine(category);
 
 Console.Write("Avaliable: ");
-Console.WriteLine(avaliable);
+Console.WriteLine(isAvaliable);
 
 Console.Write("sold: ");
 Console.WriteLine(sold);
