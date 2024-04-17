@@ -22,4 +22,11 @@ public class FruitsAPIController : ControllerBase
     {
         return fruits;
     }
+
+    // Action method from apiController with parameter.
+    [HttpGet("{id}")]
+    public string GetFruitsByIndex(int id)
+    {
+        return fruits.ElementAt(id);
+    }
 }
