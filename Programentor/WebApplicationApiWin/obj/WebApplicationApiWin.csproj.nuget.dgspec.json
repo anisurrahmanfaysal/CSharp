@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Faysal\\Desktop\\WorkStation\\CSharp\\Programentor\\ASP.NetWebApplication1\\ASP.NetWebApplication1.csproj": {}
+    "C:\\Users\\Faysal\\Desktop\\WorkStation\\CSharp\\Programentor\\WebApplicationApiWin\\WebApplicationApiWin.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Faysal\\Desktop\\WorkStation\\CSharp\\Programentor\\ASP.NetWebApplication1\\ASP.NetWebApplication1.csproj": {
+    "C:\\Users\\Faysal\\Desktop\\WorkStation\\CSharp\\Programentor\\WebApplicationApiWin\\WebApplicationApiWin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Faysal\\Desktop\\WorkStation\\CSharp\\Programentor\\ASP.NetWebApplication1\\ASP.NetWebApplication1.csproj",
-        "projectName": "ASP.NetWebApplication1",
-        "projectPath": "C:\\Users\\Faysal\\Desktop\\WorkStation\\CSharp\\Programentor\\ASP.NetWebApplication1\\ASP.NetWebApplication1.csproj",
+        "projectUniqueName": "C:\\Users\\Faysal\\Desktop\\WorkStation\\CSharp\\Programentor\\WebApplicationApiWin\\WebApplicationApiWin.csproj",
+        "projectName": "WebApplicationApiWin",
+        "projectPath": "C:\\Users\\Faysal\\Desktop\\WorkStation\\CSharp\\Programentor\\WebApplicationApiWin\\WebApplicationApiWin.csproj",
         "packagesPath": "C:\\Users\\Faysal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Faysal\\Desktop\\WorkStation\\CSharp\\Programentor\\ASP.NetWebApplication1\\obj\\",
+        "outputPath": "C:\\Users\\Faysal\\Desktop\\WorkStation\\CSharp\\Programentor\\WebApplicationApiWin\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Faysal\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,10 +45,6 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Microsoft.AspNetCore.OpenApi": {
-              "target": "Package",
-              "version": "[8.0.3, )"
-            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
