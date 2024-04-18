@@ -13,5 +13,5 @@
 # Execute the below command to verify the EF Installation:
 
     '''
-        dotnet ef
+    dotnet ef
     '''
