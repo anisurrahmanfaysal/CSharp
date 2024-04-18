@@ -428,26 +428,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Faysal\\.nuget\\packages\\": {}
+    "/home/faysal/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Faysal\\Desktop\\WorkStation\\CSharp\\Programentor\\WebApplicationApiWin2\\WebApplicationApiWin2.csproj",
+      "projectUniqueName": "/home/faysal/Desktop/Work Station/CSharp/Programentor/WebApplicationApiWin2/WebApplicationApiWin2.csproj",
       "projectName": "WebApplicationApiWin2",
-      "projectPath": "C:\\Users\\Faysal\\Desktop\\WorkStation\\CSharp\\Programentor\\WebApplicationApiWin2\\WebApplicationApiWin2.csproj",
-      "packagesPath": "C:\\Users\\Faysal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Faysal\\Desktop\\WorkStation\\CSharp\\Programentor\\WebApplicationApiWin2\\obj\\",
+      "projectPath": "/home/faysal/Desktop/Work Station/CSharp/Programentor/WebApplicationApiWin2/WebApplicationApiWin2.csproj",
+      "packagesPath": "/home/faysal/.nuget/packages/",
+      "outputPath": "/home/faysal/Desktop/Work Station/CSharp/Programentor/WebApplicationApiWin2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Faysal\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/faysal/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -460,11 +458,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -495,7 +488,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.103/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
