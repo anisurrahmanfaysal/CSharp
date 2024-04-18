@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebApplicationApiWin3.props" />
+</Project>

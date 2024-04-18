@@ -1,0 +1,6 @@
+@WebApplicationApiWin4_HostAddress = http://localhost:5231
+
+GET {{WebApplicationApiWin4_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
