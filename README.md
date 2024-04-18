@@ -1,11 +1,11 @@
-# Web-Development
+# Entity Framework
 
-# install Dotnet:
+## install Dotnet:
 
         dotnet tool install --global dotnet-ef
-# Dotnet Add Package:
+## Dotnet Add Package:
 
         Microsoft.EntityFrameworkCore.Design
-# Execute the below command to verify the EF Installation:
+## Execute the below command to verify the EF Installation:
 
         dotnet ef
