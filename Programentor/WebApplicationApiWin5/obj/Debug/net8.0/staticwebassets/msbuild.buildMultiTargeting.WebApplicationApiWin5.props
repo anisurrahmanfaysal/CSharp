@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebApplicationApiWin5.props" />
+</Project>

@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/home/faysal/Desktop/Work Station/CSharp/Programentor/WebApplicationApiWin1/WebApplicationApiWin1.csproj": {}
+    "C:\\Users\\Faysal\\Desktop\\WorkStation\\CSharp\\Programentor\\WebApplicationApiWin1\\WebApplicationApiWin1.csproj": {}
   },
   "projects": {
-    "/home/faysal/Desktop/Work Station/CSharp/Programentor/WebApplicationApiWin1/WebApplicationApiWin1.csproj": {
+    "C:\\Users\\Faysal\\Desktop\\WorkStation\\CSharp\\Programentor\\WebApplicationApiWin1\\WebApplicationApiWin1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/faysal/Desktop/Work Station/CSharp/Programentor/WebApplicationApiWin1/WebApplicationApiWin1.csproj",
+        "projectUniqueName": "C:\\Users\\Faysal\\Desktop\\WorkStation\\CSharp\\Programentor\\WebApplicationApiWin1\\WebApplicationApiWin1.csproj",
         "projectName": "WebApplicationApiWin1",
-        "projectPath": "/home/faysal/Desktop/Work Station/CSharp/Programentor/WebApplicationApiWin1/WebApplicationApiWin1.csproj",
-        "packagesPath": "/home/faysal/.nuget/packages/",
-        "outputPath": "/home/faysal/Desktop/Work Station/CSharp/Programentor/WebApplicationApiWin1/obj/",
+        "projectPath": "C:\\Users\\Faysal\\Desktop\\WorkStation\\CSharp\\Programentor\\WebApplicationApiWin1\\WebApplicationApiWin1.csproj",
+        "packagesPath": "C:\\Users\\Faysal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Faysal\\Desktop\\WorkStation\\CSharp\\Programentor\\WebApplicationApiWin1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/faysal/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Faysal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -32,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -62,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.103/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
