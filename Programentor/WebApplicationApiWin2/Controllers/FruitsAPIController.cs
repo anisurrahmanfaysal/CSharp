@@ -1,0 +1,25 @@
+﻿using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc;
+
+namespace WebApplicationApiWin2.Controllers;
+
+[Route("api/[controller]")]
+[ApiController]
+public class FruitsAPIController : ControllerBase
+{
+    // Temp database
+    public List<string> fruits = new List<string>(){        // Learn List
+        "Apple",
+        "Bannana",
+        "Mango",
+        "Cherry",
+        "Grapes"
+    };
+
+    // Action method from apiController
+    [HttpGet]
+    public List<string> GetFruits()
+    {
+        return fruits;
+    }
+}
