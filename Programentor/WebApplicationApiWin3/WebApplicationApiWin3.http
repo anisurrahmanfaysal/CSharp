@@ -1,0 +1,6 @@
+@WebApplicationApiWin3_HostAddress = http://localhost:5275
+
+GET {{WebApplicationApiWin3_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
