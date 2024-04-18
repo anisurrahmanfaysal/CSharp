@@ -3,9 +3,18 @@
 ## install Dotnet:
 
         dotnet tool install --global dotnet-ef
-## Dotnet Add Package:
+## EF Add Package:
 
-        Microsoft.EntityFrameworkCore.Design
+        dotnet add package Microsoft.EntityFrameworkCore.Design
 ## Execute the below command to verify the EF Installation:
 
         dotnet ef
+
+## Enter scaffold command 
+        dotnet ef dbcontext scaffold "connectionstring" Microsoft.EntityFrameworkCore.SqlServer --output-dir Models
+## For Generating bd context only in the folder
+        dotnet ef dbcontext scaffold --context-dir Models
+## Create the controller also complete the steps in the middleware
+
+## To restore require packages
+        dotnet restore
