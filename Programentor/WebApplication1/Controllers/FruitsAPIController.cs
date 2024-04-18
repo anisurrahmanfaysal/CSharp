@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
-namespace WebApplicationApiWin2.Controllers;
+namespace WebApplication1.Controllers;
 
 [Route("api/[controller]")]
 [ApiController]
