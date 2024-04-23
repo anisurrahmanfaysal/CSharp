@@ -7,5 +7,6 @@ namespace ASPCoreWebAPICRUD.Controllers
     [ApiController]
     public class StudentAPIController : ControllerBase
     {
+
     }
 }
