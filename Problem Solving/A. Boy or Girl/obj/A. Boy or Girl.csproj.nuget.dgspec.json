@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/faysal/Desktop/Work Station/CSharp/Problem Solving/A. Boy or Girl/A. Boy or Girl.csproj": {}
+    "/home/faysal/Desktop/Local Repo/CSharp/Problem Solving/A. Boy or Girl/A. Boy or Girl.csproj": {}
   },
   "projects": {
-    "/home/faysal/Desktop/Work Station/CSharp/Problem Solving/A. Boy or Girl/A. Boy or Girl.csproj": {
+    "/home/faysal/Desktop/Local Repo/CSharp/Problem Solving/A. Boy or Girl/A. Boy or Girl.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/faysal/Desktop/Work Station/CSharp/Problem Solving/A. Boy or Girl/A. Boy or Girl.csproj",
+        "projectUniqueName": "/home/faysal/Desktop/Local Repo/CSharp/Problem Solving/A. Boy or Girl/A. Boy or Girl.csproj",
         "projectName": "A. Boy or Girl",
-        "projectPath": "/home/faysal/Desktop/Work Station/CSharp/Problem Solving/A. Boy or Girl/A. Boy or Girl.csproj",
+        "projectPath": "/home/faysal/Desktop/Local Repo/CSharp/Problem Solving/A. Boy or Girl/A. Boy or Girl.csproj",
         "packagesPath": "/home/faysal/.nuget/packages/",
-        "outputPath": "/home/faysal/Desktop/Work Station/CSharp/Problem Solving/A. Boy or Girl/obj/",
+        "outputPath": "/home/faysal/Desktop/Local Repo/CSharp/Problem Solving/A. Boy or Girl/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/faysal/.nuget/NuGet/NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.103/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.107/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

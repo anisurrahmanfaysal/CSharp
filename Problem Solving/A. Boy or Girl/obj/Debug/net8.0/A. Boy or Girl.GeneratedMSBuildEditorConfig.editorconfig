@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = A._Boy_or_Girl
-build_property.ProjectDir = /home/faysal/Desktop/Work Station/CSharp/Problem Solving/A. Boy or Girl/
+build_property.ProjectDir = /home/faysal/Desktop/Local Repo/CSharp/Problem Solving/A. Boy or Girl/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

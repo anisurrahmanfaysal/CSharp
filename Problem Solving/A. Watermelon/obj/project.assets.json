@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/faysal/Desktop/Work Station/CSharp/Problem Solving/A. Watermelon/A. Watermelon.csproj",
+      "projectUniqueName": "/home/faysal/Desktop/Local Repo/CSharp/Problem Solving/A. Watermelon/A. Watermelon.csproj",
       "projectName": "A. Watermelon",
-      "projectPath": "/home/faysal/Desktop/Work Station/CSharp/Problem Solving/A. Watermelon/A. Watermelon.csproj",
+      "projectPath": "/home/faysal/Desktop/Local Repo/CSharp/Problem Solving/A. Watermelon/A. Watermelon.csproj",
       "packagesPath": "/home/faysal/.nuget/packages/",
-      "outputPath": "/home/faysal/Desktop/Work Station/CSharp/Problem Solving/A. Watermelon/obj/",
+      "outputPath": "/home/faysal/Desktop/Local Repo/CSharp/Problem Solving/A. Watermelon/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/faysal/.nuget/NuGet/NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.103/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.107/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

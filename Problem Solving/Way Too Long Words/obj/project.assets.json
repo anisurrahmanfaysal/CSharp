@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/faysal/Desktop/Work Station/CSharp/Problem Solving/Way Too Long Words/Way Too Long Words.csproj",
+      "projectUniqueName": "/home/faysal/Desktop/Local Repo/CSharp/Problem Solving/Way Too Long Words/Way Too Long Words.csproj",
       "projectName": "Way Too Long Words",
-      "projectPath": "/home/faysal/Desktop/Work Station/CSharp/Problem Solving/Way Too Long Words/Way Too Long Words.csproj",
+      "projectPath": "/home/faysal/Desktop/Local Repo/CSharp/Problem Solving/Way Too Long Words/Way Too Long Words.csproj",
       "packagesPath": "/home/faysal/.nuget/packages/",
-      "outputPath": "/home/faysal/Desktop/Work Station/CSharp/Problem Solving/Way Too Long Words/obj/",
+      "outputPath": "/home/faysal/Desktop/Local Repo/CSharp/Problem Solving/Way Too Long Words/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/faysal/.nuget/NuGet/NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.103/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.107/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
