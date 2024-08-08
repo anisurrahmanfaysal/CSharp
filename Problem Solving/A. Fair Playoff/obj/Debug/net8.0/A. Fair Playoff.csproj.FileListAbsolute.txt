@@ -1,0 +1,15 @@
+/home/faysal/Desktop/Local Repo/CSharp/Problem Solving/A. Fair Playoff/bin/Debug/net8.0/A. Fair Playoff
+/home/faysal/Desktop/Local Repo/CSharp/Problem Solving/A. Fair Playoff/bin/Debug/net8.0/A. Fair Playoff.deps.json
+/home/faysal/Desktop/Local Repo/CSharp/Problem Solving/A. Fair Playoff/bin/Debug/net8.0/A. Fair Playoff.runtimeconfig.json
+/home/faysal/Desktop/Local Repo/CSharp/Problem Solving/A. Fair Playoff/bin/Debug/net8.0/A. Fair Playoff.dll
+/home/faysal/Desktop/Local Repo/CSharp/Problem Solving/A. Fair Playoff/bin/Debug/net8.0/A. Fair Playoff.pdb
+/home/faysal/Desktop/Local Repo/CSharp/Problem Solving/A. Fair Playoff/obj/Debug/net8.0/A. Fair Playoff.GeneratedMSBuildEditorConfig.editorconfig
+/home/faysal/Desktop/Local Repo/CSharp/Problem Solving/A. Fair Playoff/obj/Debug/net8.0/A. Fair Playoff.AssemblyInfoInputs.cache
+/home/faysal/Desktop/Local Repo/CSharp/Problem Solving/A. Fair Playoff/obj/Debug/net8.0/A. Fair Playoff.AssemblyInfo.cs
+/home/faysal/Desktop/Local Repo/CSharp/Problem Solving/A. Fair Playoff/obj/Debug/net8.0/A. Fair Playoff.csproj.CoreCompileInputs.cache
+/home/faysal/Desktop/Local Repo/CSharp/Problem Solving/A. Fair Playoff/obj/Debug/net8.0/A. Fair Playoff.sourcelink.json
+/home/faysal/Desktop/Local Repo/CSharp/Problem Solving/A. Fair Playoff/obj/Debug/net8.0/A. Fair Playoff.dll
+/home/faysal/Desktop/Local Repo/CSharp/Problem Solving/A. Fair Playoff/obj/Debug/net8.0/refint/A. Fair Playoff.dll
+/home/faysal/Desktop/Local Repo/CSharp/Problem Solving/A. Fair Playoff/obj/Debug/net8.0/A. Fair Playoff.pdb
+/home/faysal/Desktop/Local Repo/CSharp/Problem Solving/A. Fair Playoff/obj/Debug/net8.0/A. Fair Playoff.genruntimeconfig.cache
+/home/faysal/Desktop/Local Repo/CSharp/Problem Solving/A. Fair Playoff/obj/Debug/net8.0/ref/A. Fair Playoff.dll
