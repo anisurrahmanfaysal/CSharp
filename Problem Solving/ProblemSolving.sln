@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Sum of 2050", "A. Sum of
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Fair Playoff", "A. Fair Playoff\A. Fair Playoff.csproj", "{53377501-3668-4955-9717-02EF3BC4E0A6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Perfectly Imperfect Array", "A Perfectly Imperfect Array\A. Perfectly Imperfect Array.csproj", "{5F55C570-D3C8-434A-93DF-BAC092AA948B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{53377501-3668-4955-9717-02EF3BC4E0A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53377501-3668-4955-9717-02EF3BC4E0A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53377501-3668-4955-9717-02EF3BC4E0A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F55C570-D3C8-434A-93DF-BAC092AA948B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F55C570-D3C8-434A-93DF-BAC092AA948B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F55C570-D3C8-434A-93DF-BAC092AA948B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F55C570-D3C8-434A-93DF-BAC092AA948B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
