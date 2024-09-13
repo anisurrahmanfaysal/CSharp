@@ -3,4 +3,5 @@ using OopBasic;
 
 Console.WriteLine("Water Battle.");
 
-WaterBottle waterBottle1 = new WaterBottle(100,"Green");
+WaterBottle Bottle1 = new WaterBottle(100,"Green");
+
