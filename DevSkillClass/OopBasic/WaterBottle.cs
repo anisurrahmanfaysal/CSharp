@@ -35,6 +35,10 @@ public class WaterBottle
         this.color = color;
     }
 
+    ~WaWaterBottle() {
+        
+    }
+
     public void AddWatter(double amount){
         if(amount + waterAmount <= capacity){
             waterAmount = amount + waterAmount;
