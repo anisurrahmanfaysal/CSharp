@@ -7,7 +7,7 @@ public class Product
 {
     public double Price { get; set; }
 
-    public double DefaultDiscount { get; set; } 
+    public double DefaultDiscount { get; set; } = 10;
 
     public string Name { get; set; }
 
