@@ -15,7 +15,7 @@ public class Product
     {
 
     }
-    public Product(string name) : this(0, null,10)
+    public Product(string name) : this(0, string.Empty,10)
     {
         Name = name;
     }
