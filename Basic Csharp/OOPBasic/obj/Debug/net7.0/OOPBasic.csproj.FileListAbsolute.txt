@@ -13,3 +13,18 @@
 /home/faysal/C-Sharp/OOPBasic/obj/Debug/net7.0/OOPBasic.pdb
 /home/faysal/C-Sharp/OOPBasic/obj/Debug/net7.0/OOPBasic.genruntimeconfig.cache
 /home/faysal/C-Sharp/OOPBasic/obj/Debug/net7.0/ref/OOPBasic.dll
+/home/faysal/Desktop/Local Repo/CSharp/Basic Csharp/OOPBasic/bin/Debug/net7.0/OOPBasic
+/home/faysal/Desktop/Local Repo/CSharp/Basic Csharp/OOPBasic/bin/Debug/net7.0/OOPBasic.deps.json
+/home/faysal/Desktop/Local Repo/CSharp/Basic Csharp/OOPBasic/bin/Debug/net7.0/OOPBasic.runtimeconfig.json
+/home/faysal/Desktop/Local Repo/CSharp/Basic Csharp/OOPBasic/bin/Debug/net7.0/OOPBasic.dll
+/home/faysal/Desktop/Local Repo/CSharp/Basic Csharp/OOPBasic/bin/Debug/net7.0/OOPBasic.pdb
+/home/faysal/Desktop/Local Repo/CSharp/Basic Csharp/OOPBasic/obj/Debug/net7.0/OOPBasic.GeneratedMSBuildEditorConfig.editorconfig
+/home/faysal/Desktop/Local Repo/CSharp/Basic Csharp/OOPBasic/obj/Debug/net7.0/OOPBasic.AssemblyInfoInputs.cache
+/home/faysal/Desktop/Local Repo/CSharp/Basic Csharp/OOPBasic/obj/Debug/net7.0/OOPBasic.AssemblyInfo.cs
+/home/faysal/Desktop/Local Repo/CSharp/Basic Csharp/OOPBasic/obj/Debug/net7.0/OOPBasic.csproj.CoreCompileInputs.cache
+/home/faysal/Desktop/Local Repo/CSharp/Basic Csharp/OOPBasic/obj/Debug/net7.0/OOPBasic.sourcelink.json
+/home/faysal/Desktop/Local Repo/CSharp/Basic Csharp/OOPBasic/obj/Debug/net7.0/OOPBasic.dll
+/home/faysal/Desktop/Local Repo/CSharp/Basic Csharp/OOPBasic/obj/Debug/net7.0/refint/OOPBasic.dll
+/home/faysal/Desktop/Local Repo/CSharp/Basic Csharp/OOPBasic/obj/Debug/net7.0/OOPBasic.pdb
+/home/faysal/Desktop/Local Repo/CSharp/Basic Csharp/OOPBasic/obj/Debug/net7.0/OOPBasic.genruntimeconfig.cache
+/home/faysal/Desktop/Local Repo/CSharp/Basic Csharp/OOPBasic/obj/Debug/net7.0/ref/OOPBasic.dll

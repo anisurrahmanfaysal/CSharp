@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C-Sharp\\input_output\\input_output.csproj": {}
+    "/home/faysal/Desktop/Local Repo/CSharp/Basic Csharp/input_output/input_output.csproj": {}
   },
   "projects": {
-    "D:\\C-Sharp\\input_output\\input_output.csproj": {
+    "/home/faysal/Desktop/Local Repo/CSharp/Basic Csharp/input_output/input_output.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C-Sharp\\input_output\\input_output.csproj",
+        "projectUniqueName": "/home/faysal/Desktop/Local Repo/CSharp/Basic Csharp/input_output/input_output.csproj",
         "projectName": "input_output",
-        "projectPath": "D:\\C-Sharp\\input_output\\input_output.csproj",
-        "packagesPath": "C:\\Users\\faysa\\.nuget\\packages\\",
-        "outputPath": "D:\\C-Sharp\\input_output\\obj\\",
+        "projectPath": "/home/faysal/Desktop/Local Repo/CSharp/Basic Csharp/input_output/input_output.csproj",
+        "packagesPath": "/home/faysal/.nuget/packages/",
+        "outputPath": "/home/faysal/Desktop/Local Repo/CSharp/Basic Csharp/input_output/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\faysa\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/faysal/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,19 +51,15 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
+              "version": "[7.0.20, 7.0.20]"
             },
             {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[7.0.14, 7.0.14]"
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[7.0.20, 7.0.20]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
+              "version": "[7.0.20, 7.0.20]"
             }
           ],
           "frameworkReferences": {
@@ -73,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.108/RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -13,3 +13,18 @@
 /home/faysal/C-Sharp/ConditionalStatement/obj/Debug/net7.0/ConditionalStatement.pdb
 /home/faysal/C-Sharp/ConditionalStatement/obj/Debug/net7.0/ConditionalStatement.genruntimeconfig.cache
 /home/faysal/C-Sharp/ConditionalStatement/obj/Debug/net7.0/ref/ConditionalStatement.dll
+/home/faysal/Desktop/Local Repo/CSharp/Basic Csharp/ConditionalStatement/obj/Debug/net7.0/ConditionalStatement.GeneratedMSBuildEditorConfig.editorconfig
+/home/faysal/Desktop/Local Repo/CSharp/Basic Csharp/ConditionalStatement/obj/Debug/net7.0/ConditionalStatement.AssemblyInfoInputs.cache
+/home/faysal/Desktop/Local Repo/CSharp/Basic Csharp/ConditionalStatement/obj/Debug/net7.0/ConditionalStatement.AssemblyInfo.cs
+/home/faysal/Desktop/Local Repo/CSharp/Basic Csharp/ConditionalStatement/obj/Debug/net7.0/ConditionalStatement.csproj.CoreCompileInputs.cache
+/home/faysal/Desktop/Local Repo/CSharp/Basic Csharp/ConditionalStatement/obj/Debug/net7.0/ConditionalStatement.sourcelink.json
+/home/faysal/Desktop/Local Repo/CSharp/Basic Csharp/ConditionalStatement/obj/Debug/net7.0/ConditionalStatement.dll
+/home/faysal/Desktop/Local Repo/CSharp/Basic Csharp/ConditionalStatement/obj/Debug/net7.0/refint/ConditionalStatement.dll
+/home/faysal/Desktop/Local Repo/CSharp/Basic Csharp/ConditionalStatement/obj/Debug/net7.0/ConditionalStatement.pdb
+/home/faysal/Desktop/Local Repo/CSharp/Basic Csharp/ConditionalStatement/bin/Debug/net7.0/ConditionalStatement
+/home/faysal/Desktop/Local Repo/CSharp/Basic Csharp/ConditionalStatement/bin/Debug/net7.0/ConditionalStatement.deps.json
+/home/faysal/Desktop/Local Repo/CSharp/Basic Csharp/ConditionalStatement/bin/Debug/net7.0/ConditionalStatement.runtimeconfig.json
+/home/faysal/Desktop/Local Repo/CSharp/Basic Csharp/ConditionalStatement/bin/Debug/net7.0/ConditionalStatement.dll
+/home/faysal/Desktop/Local Repo/CSharp/Basic Csharp/ConditionalStatement/bin/Debug/net7.0/ConditionalStatement.pdb
+/home/faysal/Desktop/Local Repo/CSharp/Basic Csharp/ConditionalStatement/obj/Debug/net7.0/ConditionalStatement.genruntimeconfig.cache
+/home/faysal/Desktop/Local Repo/CSharp/Basic Csharp/ConditionalStatement/obj/Debug/net7.0/ref/ConditionalStatement.dll

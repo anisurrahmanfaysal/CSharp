@@ -5,7 +5,7 @@ class TestClass
 {
     static void Main(string[] args)
     {
-        int age = Convert.ToInt32(Console.ReadLine());
+        int age = int.Parse(Console.ReadLine());
 
 
         // if conditional statement.

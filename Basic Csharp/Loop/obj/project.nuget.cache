@@ -1,13 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "IiMjiY8HBFFfs4QRoSafd/GlYZtaOEnU011/u3PSUZVbBJ1dBpgWu/qdr4LpRAkD+4Pp88V1ir2aJWe+gJGCcA==",
+  "dgSpecHash": "30KxrHxco6OXL0S+fKPUNMYETm2UxaozXHHQYMjcahL+AsCRFtJxPXLRwOuqF3M32/MIC1Z2S7ZISOuvIWHduA==",
   "success": true,
-  "projectFilePath": "D:\\C-Sharp\\Loop\\Loop.csproj",
+  "projectFilePath": "/home/faysal/Desktop/Local Repo/CSharp/Basic Csharp/Loop/Loop.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\faysa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\faysa\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\faysa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\faysa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+    "/home/faysal/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/home/faysal/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "/home/faysal/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.20/microsoft.netcore.app.host.linux-x64.7.0.20.nupkg.sha512"
   ],
   "logs": []
 }

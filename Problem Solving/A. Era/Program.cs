@@ -17,5 +17,5 @@ for (int i = 0; i < numberOfArray; i++)
 
     for(int j = 0; j < arrayElement;j++){
         Console.WriteLine("Array element "+ j +" value :" + arr[j]);         // Element of an array 1,3,4
-    }    
+    }  
 }
