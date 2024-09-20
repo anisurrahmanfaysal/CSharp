@@ -21,4 +21,6 @@ Console.Write("Product :");
 Product product1 = new Product();
 product1.Name = "Camera";
 product1.CalculateDiscount(20);
-Console.WriteLine(product1.DefaultDiscount);
+Console.WriteLine(product1);
+
+Student student1 = new Student();

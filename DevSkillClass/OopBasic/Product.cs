@@ -7,22 +7,22 @@ public class Product
 {
     public double Price { get; set; }
 
-    public double DefaultDiscount { get; set; } = 10;
+    private const double DEFAULT_DISCOUNT = 10;
+    private readonly string barcode;
 
     public string Name { get; set; }
 
     public Product() : this(string.Empty)
     {
-
+        barcode = "ABC-123";
     }
-    public Product(string name) : this(0, string.Empty,10)
+    public Product(string name) : this(0, string.Empty)
     {
         Name = name;
     }
-    public Product(double price, string name, double defaultDiscount){
+    public Product(double price, string name){
         Price = price;
         Name = name;
-        DefaultDiscount = defaultDiscount;
     }
 
     /// <summary>
@@ -30,7 +30,7 @@ public class Product
     /// </summary>
     /// <returns></returns>
     public double CalculateDiscount(){
-        return Price * DefaultDiscount/100;
+        return Price * DEFAULT_DISCOUNT/100;
     }
 
     /// <summary>
@@ -39,7 +39,7 @@ public class Product
     /// <param name="MaximumDiscount">Maximum Discount given.</param>
     /// <returns></returns>
     public double CalculateDiscount(int MaximumDiscount){
-        double discount = Price * DefaultDiscount/100;
+        double discount = Price * DEFAULT_DISCOUNT/100;
         return discount > MaximumDiscount
             ? MaximumDiscount
             : discount;
