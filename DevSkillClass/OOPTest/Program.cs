@@ -1,1 +1,3 @@
-﻿Console.WriteLine("This is OOPTest Project.");
+﻿using OopBasic;
+
+Product product = new Product();
