@@ -1,5 +1,4 @@
-﻿// // See https://aka.ms/new-console-template for more information
-using OopBasic;
+﻿using OopBasic;
 
 
 // Console.Write("Water Battle :");
