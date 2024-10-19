@@ -14,7 +14,7 @@ public class User
     }
 
     public User(string username, string password){
-        id = "123";
+        id = new IdGenerator().Generate();
         Username = username;
         Password = password;
     }
