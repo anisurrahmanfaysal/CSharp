@@ -14,7 +14,7 @@ public class User
     }
 
     public User(string username, string password){
-        id = new IdGenerator().Generate();
+        
         Username = username;
         Password = password;
     }
@@ -23,5 +23,10 @@ public class User
         {
             Password = newPassword;
         }
+    }
+
+    public virtual void CreateId()
+    {
+        id = new IdGenerator().Generate();
     }
 }

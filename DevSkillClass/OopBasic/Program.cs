@@ -24,3 +24,9 @@
 
 Student student1 = new Student("Faysal","1234");
 student1.ChangePassword("1234","4444");
+
+student1.CreateId();
+
+User user =new Student("Faysal","333");
+user.CreateId();
+Console.WriteLine(user.ID);
