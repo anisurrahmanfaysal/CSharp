@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OopBasic", "OopBasic\OopBasic.csproj", "{2CAEA55E-0BD8-4A8B-83E1-D7449A4336B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OopBasic", "OopBasic\OopBasic.csproj", "{2CAEA55E-0BD8-4A8B-83E1-D7449A4336B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPTest", "OOPTest\OOPTest.csproj", "{7D9A3766-6E93-459D-B496-F577AAA0F294}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOPTest", "OOPTest\OOPTest.csproj", "{7D9A3766-6E93-459D-B496-F577AAA0F294}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticClass", "StaticClass\StaticClass.csproj", "{EB9748E0-DBFC-4586-82E4-A8E960843A2C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,8 +23,15 @@ Global
 		{7D9A3766-6E93-459D-B496-F577AAA0F294}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D9A3766-6E93-459D-B496-F577AAA0F294}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D9A3766-6E93-459D-B496-F577AAA0F294}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB9748E0-DBFC-4586-82E4-A8E960843A2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB9748E0-DBFC-4586-82E4-A8E960843A2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB9748E0-DBFC-4586-82E4-A8E960843A2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB9748E0-DBFC-4586-82E4-A8E960843A2C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21E9DF94-A741-4E2A-BA6D-6F8C6F0DA80B}
 	EndGlobalSection
 EndGlobal
