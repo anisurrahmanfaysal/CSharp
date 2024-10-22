@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace StaticClass
 {
-    public class Geometry
+    public static class Geometry
     {
         private static readonly double pi;
         public static double PI
@@ -23,7 +23,7 @@ namespace StaticClass
             return PI * radius;
         }
 
-        public static double CalculateRectangleArea(double width,double height) 
+        public static double CalculateRectangleArea(double width,double height)
         {
             return width * height;
         }
