@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOPTest", "OOPTest\OOPTest.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StaticClass", "StaticClass\StaticClass.csproj", "{EB9748E0-DBFC-4586-82E4-A8E960843A2C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractClass", "AbstractClass\AbstractClass.csproj", "{9B57E607-6F02-4061-A77F-0C7E8D912550}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractClass", "AbstractClass\AbstractClass.csproj", "{9B57E607-6F02-4061-A77F-0C7E8D912550}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceExamples", "InterfaceExamples\InterfaceExamples.csproj", "{AF44EA0C-3EC3-46E2-8D3E-6489C8E7FB31}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{9B57E607-6F02-4061-A77F-0C7E8D912550}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B57E607-6F02-4061-A77F-0C7E8D912550}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B57E607-6F02-4061-A77F-0C7E8D912550}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF44EA0C-3EC3-46E2-8D3E-6489C8E7FB31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF44EA0C-3EC3-46E2-8D3E-6489C8E7FB31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF44EA0C-3EC3-46E2-8D3E-6489C8E7FB31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF44EA0C-3EC3-46E2-8D3E-6489C8E7FB31}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
