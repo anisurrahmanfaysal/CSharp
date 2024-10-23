@@ -1,3 +1,4 @@
+using OopBasic;
 using System;
 
 namespace AbstractClass;
@@ -10,6 +11,6 @@ public class Student : User
 
     public override void CreateId()
     {
-        id = "ST-" + new IdGenerator().Generate();
+        id = "ST-" + id;
     }
 }
