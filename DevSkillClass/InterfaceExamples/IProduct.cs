@@ -10,6 +10,14 @@ namespace InterfaceExamples
     {
         double CalculateServiceCharge();
         double CalculateDiscount();
+        public string Name {  get; set; }
+        public double GetDefaultDiscount(int max)
+        {
+            if (max < 10)
+                return max;
+            else 
+                return 10;
+        }
 
     }
 }
