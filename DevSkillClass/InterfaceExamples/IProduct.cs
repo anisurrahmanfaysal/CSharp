@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace InterfaceExamples
 {
-    internal interface IProduct
+    public interface IProduct
     {
+        double CalculateServiceCharge();
+        double CalculateDiscount();
+
     }
 }
