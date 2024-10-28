@@ -5,29 +5,29 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AdoNetExample
+namespace AdoNetPractice
 {
     public class AdonetUtility
     {
         private readonly string _connectionString;
-        public AdonetUtility()
+        AdonetUtility() 
         {
             _connectionString = "Server = DESKTOP-5IJV2CO\\SQLEXPRESS; Database = CSharpB18; User Id = csharpb18; Password = 123456;Trust Server Certificate=True";
         }
+
         public void RunSql(string sql)
         {
             SqlConnection sqlConnection = new SqlConnection(_connectionString);
-            SqlCommand sqlCommand = new SqlCommand(sql, sqlConnection);
+            SqlCommand cmd = new SqlCommand(sql, sqlConnection);
 
             if(sqlConnection.State != System.Data.ConnectionState.Open)
                 sqlConnection.Open();
 
-            int rowExpected = sqlCommand.ExecuteNonQuery();
+            int rowExpected = cmd.ExecuteNonQuery();
 
             sqlConnection.Close();
-
             sqlConnection.Dispose();
-            sqlCommand.Dispose();
+            cmd.Dispose();
         }
     }
 }
