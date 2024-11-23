@@ -1,6 +1,6 @@
 ﻿Console.WriteLine("AnonymousType\n");
 
-var o = new { Name = "Faysal", Age = 27 };
+var anonymous = new { Name = "Faysal", Age = 27 };
 
-Console.WriteLine(o.Name);
-Console.WriteLine(o.Age);
+Console.WriteLine(anonymous.Name);
+Console.WriteLine(anonymous.Age);
