@@ -29,5 +29,30 @@ namespace AdoNetExample
             sqlConnection.Dispose();
             sqlCommand.Dispose();
         }
+
+        public void GetData(string sql) {
+            SqlConnection sqlConnection = new SqlConnection(_connectionString);
+            SqlCommand sqlCommand = new SqlCommand(sql, sqlConnection);
+
+            if (sqlConnection.State != System.Data.ConnectionState.Open)
+                sqlConnection.Open();
+
+            SqlDataReader reader = sqlCommand.ExecuteReader();
+
+            while (reader.Read()) {
+
+                for (int i = 0; i < reader.FieldCount; i++) 
+                {
+                    string columnName = reader.GetName(i);
+                    object columnValue = reader.GetValue(i);
+
+                }
+
+                //int id = (int)reader["id"];
+                //string name = (string)reader["name"];
+                //DateTime dateofbirth = (DateTime)reader["dateofbirth"];
+                //bool ismarried = (bool)reader["ismarried"];
+            }
+        }
     }
 }

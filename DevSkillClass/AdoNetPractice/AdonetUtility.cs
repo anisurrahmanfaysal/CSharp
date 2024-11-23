@@ -10,9 +10,9 @@ namespace AdoNetPractice
     public class AdonetUtility
     {
         private readonly string _connectionString;
-        AdonetUtility() 
+        public AdonetUtility(string connectionString) 
         {
-            _connectionString = "Server = DESKTOP-5IJV2CO\\SQLEXPRESS; Database = CSharpB18; User Id = csharpb18; Password = 123456;Trust Server Certificate=True";
+            _connectionString = connectionString;
         }
 
         public void RunSql(string sql)

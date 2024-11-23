@@ -15,7 +15,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceExamples", "Interf
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdoNetExample", "AdoNetExample\AdoNetExample.csproj", "{7451C79F-D34A-48CF-80E1-23C4A517D32C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdoNetPractice", "AdoNetPractice\AdoNetPractice.csproj", "{EB8CA8F6-D92F-46FF-A7CE-26D7014CD705}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdoNetPractice", "AdoNetPractice\AdoNetPractice.csproj", "{EB8CA8F6-D92F-46FF-A7CE-26D7014CD705}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringBuilder", "StringBuilder\StringBuilder.csproj", "{AF033DBF-BDDA-4833-9207-5B84C71B2C86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParameterModifier", "ParameterModifier\ParameterModifier.csproj", "{1602898B-9190-4DB0-BBEC-D525B325D135}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VarExample", "VarExample\VarExample.csproj", "{A555C72A-F6A4-411F-B0E6-D03035B68251}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +57,18 @@ Global
 		{EB8CA8F6-D92F-46FF-A7CE-26D7014CD705}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB8CA8F6-D92F-46FF-A7CE-26D7014CD705}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB8CA8F6-D92F-46FF-A7CE-26D7014CD705}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF033DBF-BDDA-4833-9207-5B84C71B2C86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF033DBF-BDDA-4833-9207-5B84C71B2C86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF033DBF-BDDA-4833-9207-5B84C71B2C86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF033DBF-BDDA-4833-9207-5B84C71B2C86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1602898B-9190-4DB0-BBEC-D525B325D135}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1602898B-9190-4DB0-BBEC-D525B325D135}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1602898B-9190-4DB0-BBEC-D525B325D135}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1602898B-9190-4DB0-BBEC-D525B325D135}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A555C72A-F6A4-411F-B0E6-D03035B68251}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A555C72A-F6A4-411F-B0E6-D03035B68251}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A555C72A-F6A4-411F-B0E6-D03035B68251}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A555C72A-F6A4-411F-B0E6-D03035B68251}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
