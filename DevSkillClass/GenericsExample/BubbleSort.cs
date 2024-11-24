@@ -1,16 +1,17 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Numerics;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace GenericsExample
 {
-    public class BubbleSort
+    public class BubbleSort 
     {
-        public int[] Sort(int[] arr)
+        public T[] Sort<T>(T[] arr) where T : INumber<T>
         {
-            int temp;
+            var temp = default(T);
             for (int j = 0; j < arr.Length -2; j++)
             {
                 for (int i = 0; i < arr.Length - 2; i++)
@@ -23,7 +24,7 @@ namespace GenericsExample
                     }
                 }
             }
-         return arr;
+            return arr;
         }
     }
 }

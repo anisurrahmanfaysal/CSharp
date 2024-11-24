@@ -6,7 +6,7 @@ c.Y = 9;
 
 BubbleSort bubbleSort1 = new BubbleSort();
 
-var result = bubbleSort1.Sort(new int[] {3,6,6,3,4,});
+var result = bubbleSort1.Sort<int>(new int[] {3,6,6,3,4,});
 
 foreach (var item in result)
 {
