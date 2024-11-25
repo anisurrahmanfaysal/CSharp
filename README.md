@@ -3,6 +3,9 @@
 ## install Dotnet:
 
         dotnet tool install --global dotnet-ef
+## To Add Migrations:
+        dotnet ef Migrations add 'Table Name' --project 'Project Name' --context 'DbContext class Name'
+
 ## EF Add Package:
 
         dotnet add package Microsoft.EntityFrameworkCore.Design
