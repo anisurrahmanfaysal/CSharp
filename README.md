@@ -5,6 +5,8 @@
         dotnet tool install --global dotnet-ef
 ## To Add Migrations:
         dotnet ef Migrations add 'Table Name' --project 'Project Name' --context 'DbContext class Name'
+## To Update Migrations:
+        dotnet ef database update --project 'Project Name' --context 'DbContext class Name'
 
 ## EF Add Package:
 
