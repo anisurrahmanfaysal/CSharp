@@ -5,6 +5,8 @@ VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqExample", "LinqExample\LinqExample.csproj", "{C22D160C-EDD9-4121-9396-99CB2585D01F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParameterModifier", "ParameterModifier\ParameterModifier.csproj", "{BFC9E35F-8202-4BAA-BAE7-A3E36184A880}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C22D160C-EDD9-4121-9396-99CB2585D01F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C22D160C-EDD9-4121-9396-99CB2585D01F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C22D160C-EDD9-4121-9396-99CB2585D01F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFC9E35F-8202-4BAA-BAE7-A3E36184A880}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFC9E35F-8202-4BAA-BAE7-A3E36184A880}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFC9E35F-8202-4BAA-BAE7-A3E36184A880}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFC9E35F-8202-4BAA-BAE7-A3E36184A880}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
