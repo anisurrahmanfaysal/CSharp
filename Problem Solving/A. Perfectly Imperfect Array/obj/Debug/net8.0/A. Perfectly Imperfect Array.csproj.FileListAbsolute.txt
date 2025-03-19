@@ -1,5 +1,0 @@
-/home/faysal/Desktop/Local Repo/CSharp/Problem Solving/A. Perfectly Imperfect Array/obj/Debug/net8.0/A. Perfectly Imperfect Array.GeneratedMSBuildEditorConfig.editorconfig
-/home/faysal/Desktop/Local Repo/CSharp/Problem Solving/A. Perfectly Imperfect Array/obj/Debug/net8.0/A. Perfectly Imperfect Array.AssemblyInfoInputs.cache
-/home/faysal/Desktop/Local Repo/CSharp/Problem Solving/A. Perfectly Imperfect Array/obj/Debug/net8.0/A. Perfectly Imperfect Array.AssemblyInfo.cs
-/home/faysal/Desktop/Local Repo/CSharp/Problem Solving/A. Perfectly Imperfect Array/obj/Debug/net8.0/A. Perfectly Imperfect Array.csproj.CoreCompileInputs.cache
-/home/faysal/Desktop/Local Repo/CSharp/Problem Solving/A. Perfectly Imperfect Array/obj/Debug/net8.0/A. Perfectly Imperfect Array.sourcelink.json
