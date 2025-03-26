@@ -10,24 +10,30 @@ namespace AdoNetExample
     public class AdonetUtility
     {
         private readonly string _connectionString = "Server=DESKTOP-5IJV2CO\\SQLEXPRESS;Database=AdoNetExample;User Id=adonetexample;Password=123456;Trust Server Certificate=True;";
-        public void RunSql(string sql)
+        public void RunSql(string sql, Dictionary<string, object> parameters)
         {
-            SqlConnection sqlConnection = new SqlConnection(_connectionString);
-            SqlCommand cmd = new SqlCommand(sql, sqlConnection);
+            using SqlConnection sqlConnection = new SqlConnection(_connectionString);
+            using SqlCommand cmd = new SqlCommand(sql, sqlConnection);
+
+            foreach (var parameter in parameters) {
+                cmd.Parameters.Add(new SqlParameter(parameter.Key, parameter.Value));
+            }
 
             if(sqlConnection.State != System.Data.ConnectionState.Open)
                 sqlConnection.Open();
 
             int rowExpected = cmd.ExecuteNonQuery();   // It return integer that how row effected into database.
-            sqlConnection.Close();
-            sqlConnection.Dispose();
-            cmd.Dispose();
         }
 
-        public List<Dictionary<string, object>> GetData(string sql)
+        public List<Dictionary<string, object>> GetData(string sql, Dictionary<string, object> parameters)
         {
-            SqlConnection sqlConnection = new SqlConnection(_connectionString);
-            SqlCommand cmd = new SqlCommand(sql, sqlConnection);
+            using SqlConnection sqlConnection = new SqlConnection(_connectionString);
+            using SqlCommand cmd = new SqlCommand(sql, sqlConnection);
+
+            foreach (var parameter in parameters)
+            {
+                cmd.Parameters.Add(new SqlParameter(parameter.Key, parameter.Value));
+            }
 
             if (sqlConnection.State != System.Data.ConnectionState.Open)
                 sqlConnection.Open();

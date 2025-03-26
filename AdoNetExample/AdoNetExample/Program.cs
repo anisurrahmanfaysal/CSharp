@@ -1,15 +1,23 @@
-﻿// See https://aka.ms/new-console-template for more information
-using AdoNetExample;
+﻿using AdoNetExample;
 
 Console.WriteLine("AdoNetExample!");
 
 AdonetUtility adonetUtility = new AdonetUtility();
 
-//var sql = "INSERT INTO EMPLOYEE (NAME, DATEOFBIRTH, ISMARRIED) values('Faysal', '2/9/1998', 1)";
-var dataSql = "SELECT * FROM EMPLOYEE";
+var sql = "INSERT INTO EMPLOYEE (NAME, DATEOFBIRTH, ISMARRIED) values(@name, @dateofbirth, @ismarried)";
+Dictionary<string, object> keyValuePairs = new Dictionary<string, object>();
+keyValuePairs.Add("name", "Shoshi");
+keyValuePairs.Add("dateofbirth",new DateTime (1999 , 1,29));
+keyValuePairs.Add("ismarried", 1);
 
-//adonetUtility.RunSql(sql);
-var result = adonetUtility.GetData(dataSql);
+var dataSql = "SELECT * FROM EMPLOYEE WHERE ID < @ID";
+
+Dictionary<string, object> parameters = new Dictionary<string, object>();
+parameters.Add("ID", 6);
+
+adonetUtility.RunSql(sql, keyValuePairs);
+
+var result = adonetUtility.GetData(dataSql, parameters);
 
 foreach (var row in result)
 {
