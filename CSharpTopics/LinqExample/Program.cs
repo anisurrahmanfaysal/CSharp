@@ -1,4 +1,4 @@
-﻿// array, IEnumerable, IQuearyable
+﻿// array, IEnumerable, IQuearyable link using filds.
 
 using LinqExample;
 
@@ -11,6 +11,11 @@ List<Order> orders = new List<Order>
     new Order {Item = "Jackfruit", Quantity = 5}
 };
 
- from o in orders
- join n in names
+ var quantities = (from o in orders
+ join n in names on o.Item equals n
+ select o.Quantity);
 
+foreach (var quant in quantities)
+    Console.WriteLine(quant);
+
+int count = orders.Count(x => x.Quantity == 15);
