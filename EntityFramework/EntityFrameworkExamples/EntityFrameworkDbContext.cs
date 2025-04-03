@@ -18,6 +18,11 @@ namespace EntityFrameworkExamples
             base.OnConfiguring(optionsBuilder);
         }
 
-        public DbSet<Course> Courses { get; set; }
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<Topic>().ToTable("Topics");
+            base.OnModelCreating(modelBuilder);
+        }
+        public DbSet<Course> Courses { get; set; }  
     }
 }

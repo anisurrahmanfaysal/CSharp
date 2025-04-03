@@ -13,5 +13,6 @@ namespace EntityFrameworkExamples
         public double Fees { get; set; }
         public bool IsActive { get; set; }
         public DateTime StartDate { get; set; }
+        public List<Topic> Topics { get; set; }
     }
 }

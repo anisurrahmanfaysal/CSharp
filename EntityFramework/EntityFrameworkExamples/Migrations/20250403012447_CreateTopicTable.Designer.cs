@@ -4,6 +4,7 @@ using EntityFrameworkExamples;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace EntityFrameworkExamples.Migrations
 {
     [DbContext(typeof(EntityFrameworkDbContext))]
-    partial class EntityFrameworkDbContextModelSnapshot : ModelSnapshot
+    [Migration("20250403012447_CreateTopicTable")]
+    partial class CreateTopicTable
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
