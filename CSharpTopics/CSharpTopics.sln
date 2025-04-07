@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsExample", "Generics
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OODPrinciples", "OODPrinciples\OODPrinciples.csproj", "{9BC7DEE4-0146-4C44-A51D-BF1341FFA3BD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreationalPattern", "CreationalPattern\CreationalPattern.csproj", "{9C363AC1-AAF3-45B2-B845-AE15FCA59ED8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{9BC7DEE4-0146-4C44-A51D-BF1341FFA3BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9BC7DEE4-0146-4C44-A51D-BF1341FFA3BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9BC7DEE4-0146-4C44-A51D-BF1341FFA3BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C363AC1-AAF3-45B2-B845-AE15FCA59ED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C363AC1-AAF3-45B2-B845-AE15FCA59ED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C363AC1-AAF3-45B2-B845-AE15FCA59ED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C363AC1-AAF3-45B2-B845-AE15FCA59ED8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
