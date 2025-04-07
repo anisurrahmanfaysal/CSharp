@@ -1,5 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using OODPrinciples.DIP;
 using OODPrinciples.LSP;
 
-Console.WriteLine("Hello, World!");
-Square s  = new Square();
+
+IEmailSender emailSender = new EmailSender();
+
+Membership membership = new Membership(emailSender);
