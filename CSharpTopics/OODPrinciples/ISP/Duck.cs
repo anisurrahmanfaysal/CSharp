@@ -4,18 +4,23 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OODPrinciples.SRP
+namespace OODPrinciples.ISP
 {
-    public class DataUtility
+    internal class Duck : IFlyable, IWalkable, ISwimable
     {
-        public bool CheckDuplicateUsername(string username)
+        public void Fly()
         {
             throw new NotImplementedException();
         }
-        public bool SaveAccount(string username, string password, string email)
+
+        public void Swim()
         {
             throw new NotImplementedException();
+        }
 
+        public void Walk()
+        {
+            throw new NotImplementedException();
         }
     }
 }

@@ -4,13 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OODPrinciples.SRP
+namespace OODPrinciples.ISP
 {
-    public class EncryptionUtility
+    public class Chicken : IWalkable
     {
-        private const string _encryptionHash = "Nothing happend!";
-
-        public string EncryptPassword(string password)
+        public void Walk()
         {
             throw new NotImplementedException();
         }

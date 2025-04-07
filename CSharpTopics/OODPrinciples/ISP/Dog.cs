@@ -4,13 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OODPrinciples.SRP
+namespace OODPrinciples.ISP
 {
-    public class EncryptionUtility
+    internal class Dog : IWalkable, ISwimable
     {
-        private const string _encryptionHash = "Nothing happend!";
+        public void Swim()
+        {
+            throw new NotImplementedException();
+        }
 
-        public string EncryptPassword(string password)
+        public void Walk()
         {
             throw new NotImplementedException();
         }

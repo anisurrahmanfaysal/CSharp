@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace OODPrinciples.SRP
 {
-    internal class EmailSender
+    public class EmailSender
     {
+        public void SendNewAccountEmail(string email)
+        {
+            throw new NotImplementedException();
+
+        }
     }
 }

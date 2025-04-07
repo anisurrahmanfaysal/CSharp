@@ -4,14 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OODPrinciples.SRP
+namespace OODPrinciples.OCP
 {
-    public class EncryptionUtility
+    public class SHA256EncryptionUtility : IEncryptionProcess
     {
-        private const string _encryptionHash = "Nothing happend!";
-
         public string EncryptPassword(string password)
         {
+            // uses SHA256 hashing algorithm
             throw new NotImplementedException();
         }
     }
