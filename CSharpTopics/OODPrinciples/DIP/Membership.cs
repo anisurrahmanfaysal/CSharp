@@ -14,7 +14,7 @@ namespace OODPrinciples.DIP
         private readonly DataUtility _dataUtility;
         public Membership(IEmailSender emailSender) 
         {
-            _emailSender = IEmailSender;
+            _emailSender = emailSender;
             _encryptionUtility = new EncryptionUtility();
             _dataUtility = new DataUtility();
         }

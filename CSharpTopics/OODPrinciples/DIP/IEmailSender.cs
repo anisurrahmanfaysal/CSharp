@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace OODPrinciples.DIP
 {
-    internal interface IEmailSender
+    public interface IEmailSender
     {
+        public void SendNewAccountEmail(string email);
     }
 }

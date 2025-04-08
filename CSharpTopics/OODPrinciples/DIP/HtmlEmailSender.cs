@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace OODPrinciples.DIP
 {
-    internal class HtmlEmailSender : EmailSender
+    public class HtmlEmailSender : IEmailSender
     {
+        public void SendNewAccountEmail(string email)
+        {
+            throw new NotImplementedException();
+
+        }
     }
 }
