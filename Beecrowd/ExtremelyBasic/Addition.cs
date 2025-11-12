@@ -8,8 +8,8 @@ namespace ExtremelyBasic
 {
     public class Addition
     {
-        public int A = int.Parse(Console.ReadLine());
-        public int B = int.Parse(Console.ReadLine());
-        public int X = A + B;
+        //public int A = int.Parse(Console.ReadLine());
+        //public int B = int.Parse(Console.ReadLine());
+        //public int X = A + B;
     }
 }
