@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113
+# Visual Studio Version 18
+VisualStudioVersion = 18.0.11205.157 d18.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1000HelloWorld", "HelloWorld\1000HelloWorld.csproj", "{724BDFF0-6797-4FFA-A173-86F35720C186}"
 EndProject
@@ -42,6 +42,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1018Banknotes", "1018Banknotes\1018Banknotes.csproj", "{76BF3E79-02C3-48BA-BC69-5E3C61B92C57}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1021BanknotesAndCoins", "1021BanknotesAndCoins\1021BanknotesAndCoins.csproj", "{0D57B284-6D97-4348-88BD-D896DA6D14CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1036Bhaskara'sFormula", "1036Bhaskara'sFormula\1036Bhaskara'sFormula.csproj", "{6DB077E3-CCCC-490A-B32F-306CE0789D1F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +131,10 @@ Global
 		{0D57B284-6D97-4348-88BD-D896DA6D14CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D57B284-6D97-4348-88BD-D896DA6D14CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D57B284-6D97-4348-88BD-D896DA6D14CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DB077E3-CCCC-490A-B32F-306CE0789D1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DB077E3-CCCC-490A-B32F-306CE0789D1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DB077E3-CCCC-490A-B32F-306CE0789D1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DB077E3-CCCC-490A-B32F-306CE0789D1F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
