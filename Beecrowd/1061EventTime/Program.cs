@@ -1,2 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿var startDayLine = Console.ReadLine();
+int startDay = int.Parse(startDayLine.Split(' ')[1]);
+
+string[] startTime = Console.ReadLine().Split(" : ");
+
+var startHour = int.Parse(startTime[0]);

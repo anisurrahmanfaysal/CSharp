@@ -1,4 +1,6 @@
-﻿string[] line1 = Console.ReadLine().Split(' ');
+﻿using System;
+
+string[] line1 = Console.ReadLine().Split(' ');
 var x1 = double.Parse(line1[0]);
 var y1 = double.Parse(line1[1]);
 
