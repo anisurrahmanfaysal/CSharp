@@ -1,28 +1,35 @@
 ﻿string[] input = Console.ReadLine().Split(' ');
-double exam = double.Parse(Console.ReadLine());
 
-double N1 = double.Parse(input[0]);
-double N2 = double.Parse(input[1]);
-double N3 = double.Parse(input[2]);
-double N4 = double.Parse(input[3]);
+var n1 = float.Parse(input[0]);
+var n2 = float.Parse(input[1]);
+var n3 = float.Parse(input[2]);
+var n4 = float.Parse(input[3]);
 
-double media = (N1 * 2 + N2 * 3 + N3 * 4 + N4 * 1) / 10;
-Console.WriteLine($"Media: {media}");
+double media = (n1 * 2 + n2 * 3 + n3 * 4 + n4) / 10;
 
-if(media >= 7)
+Console.WriteLine($"Media: {media:F1}");
+
+if (media >= 7.0)
+{
     Console.WriteLine("Aluno aprovado.");
-if(media < 5)
+}
+else if (media < 5.0)
+{
     Console.WriteLine("Aluno reprovado.");
-if(media >= 5 && media <= 6.9)
+}
+else
+{
     Console.WriteLine("Aluno em exame.");
 
-Console.WriteLine($"Nota do exame: {exam}");
+    double exame = double.Parse(Console.ReadLine());
+    Console.WriteLine($"Nota do exame: {exame:F1}");
 
-double finalAvg = (exam + media)/2;
+    double mediaFinal = (media + exame) / 2.0;
 
-if (finalAvg >= 5)
-    Console.WriteLine("Aluno aprovado.");
-else if (finalAvg <= 4.9)
-    Console.WriteLine("Aluno reprovado.");
+    if (mediaFinal >= 5.0)
+        Console.WriteLine("Aluno aprovado.");
+    else
+        Console.WriteLine("Aluno reprovado.");
 
-Console.WriteLine($"Media final: {finalAvg}");
+    Console.WriteLine($"Media final: {mediaFinal:F1}");
+}
