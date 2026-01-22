@@ -139,6 +139,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1117ScoreValidation", "1117
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1118SeveralScoresWithValidation", "1118SeveralScoresWithValidation\1118SeveralScoresWithValidation.csproj", "{FDE49FE9-F978-4562-9346-8A1E9458F81C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1131Grenais", "1131Grenais\1131Grenais.csproj", "{B58309E3-C2F8-4C58-B237-E5FB97D8A4D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -417,6 +419,10 @@ Global
 		{FDE49FE9-F978-4562-9346-8A1E9458F81C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FDE49FE9-F978-4562-9346-8A1E9458F81C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FDE49FE9-F978-4562-9346-8A1E9458F81C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B58309E3-C2F8-4C58-B237-E5FB97D8A4D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B58309E3-C2F8-4C58-B237-E5FB97D8A4D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B58309E3-C2F8-4C58-B237-E5FB97D8A4D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B58309E3-C2F8-4C58-B237-E5FB97D8A4D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
