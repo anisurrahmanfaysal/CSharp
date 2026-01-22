@@ -16,7 +16,9 @@ for (int i = 0;; i++)
         Console.WriteLine("nota invalida");
     }
 
-    Console.WriteLine($"media = {sum/2}");
     if (count == 2)
+    {
+        Console.WriteLine($"media = {sum / 2}");
         break;
+    }
 }
